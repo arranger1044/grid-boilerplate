@@ -1,0 +1,13 @@
+{
+    "cmd": "julia ",
+    "hdims-list": ["50, 50 50"],
+    "batch-size": [128],
+    "temperature": [0.001],
+    "critic-iters": [10],
+    "n-iters": [10000],
+    "plot-every": [10],
+    "fig-x": [-4, 4],
+    "fig-y": [-4, 4],
+    "fig-steps": [80],
+    "fig-ellipsis": [1]
+}

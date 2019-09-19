@@ -1,0 +1,9 @@
+{
+    "learning-rate": [0.001],
+    "hybrid-const" : [0.001, 0.01, 0.1],
+    "hdims-list" : ["150 150 150", "50 50 50"],
+    "temperature" : [0.001, 0.01],
+    "leaf-size" : [1, 2],
+    "model" : ["hybrid-gumbel"],
+    "expname": ["grid-25", "circle-12"]
+}
